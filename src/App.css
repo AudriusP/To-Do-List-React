@@ -1,0 +1,21 @@
+input[type=checkbox]:checked + span {
+    text-decoration: line-through;
+}
+
+li {
+    list-style-type:none;
+    padding-bottom: 10px;
+}
+
+ul {
+    padding: 0;
+    text-align: left;
+}
+
+div {
+    padding: 20px;
+}
+
+span {
+    margin-left: 10px;
+}

@@ -1,0 +1,21 @@
+input[type=checkbox] {
+    cursor: pointer;
+}
+
+input[type=checkbox]:checked + span {
+    text-decoration: line-through;
+}
+
+li {
+    list-style-type:none;
+    padding-bottom: 10px;
+}
+
+span {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+button {
+    margin-left: 10px;
+}

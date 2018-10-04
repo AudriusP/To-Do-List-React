@@ -1,0 +1,12 @@
+ul {
+    padding: 0;
+    text-align: left;
+}
+
+div {
+    padding: 20px;
+}
+
+.error {
+    color: red;
+}
